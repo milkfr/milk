@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockStyleable">
+        <attr name="clock" format="reference"/>
+        <attr name="hour_white" format="reference"/>
+        <attr name="hour_black" format="reference"/>
+        <attr name="minute_white" format="reference"/>
+        <attr name="minute_black" format="reference"/>
+        <attr name="second" format="reference"/>
+        <attr name="center_white" format="reference"/>
+        <attr name="center_black" format="reference"/>
+        <attr name="circle" format="reference"/>
+        <attr name="guild_white" format="reference"/>
+        <attr name="guild_black" format="reference"/>
+    </declare-styleable>
+</resources>
