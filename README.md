@@ -4,8 +4,8 @@ My milk app
 用来推荐每日牛奶和趣味时间计算
 
 内容如图
-![image](https://github.com/franciumzh/milk/1.jpg)
-![image](https://github.com/franciumzh/milk/2.jpg)
-![image](https://github.com/franciumzh/milk/3.jpg)
+![image](https://github.com/franciumzh/milk/blob/master/1.jpg)
+![image](https://github.com/franciumzh/milk/blob/master/2.jpg)
+![image](https://github.com/franciumzh/milk/blob/master/3.jpg)
 
 部分功能有待完善，推荐系统将与本人blog以后会完成的REST编程接口相连通
